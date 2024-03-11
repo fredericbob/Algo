@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8b270f-bf53-44cc-b8e1-9ce1ca23a01d" name="Changes" comment="qsdfgfds">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algo/Methode/Plat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algo/Methode/Plat3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algo/Methode/Plats1.java" afterDir="false" />
-    </list>
+    <list default="true" id="2b8b270f-bf53-44cc-b8e1-9ce1ca23a01d" name="Changes" comment="FirstCommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +73,16 @@
       <workItem from="1709918349373" duration="5218000" />
       <workItem from="1709964137141" duration="717000" />
       <workItem from="1710137306845" duration="2009000" />
+      <workItem from="1710152312167" duration="304000" />
     </task>
+    <task id="LOCAL-00001" summary="FirstCommit">
+      <created>1710152611177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710152611177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="qsdfgfds" />
-    <option name="LAST_COMMIT_MESSAGE" value="qsdfgfds" />
+    <MESSAGE value="FirstCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="FirstCommit" />
   </component>
 </project>
