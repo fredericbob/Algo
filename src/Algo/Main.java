@@ -1,6 +1,7 @@
 package Algo;
 
 import Algo.Methode.Plat2;
+import Algo.Methode.Plat3;
 //import Algo.Methode.Plats1;
 
 import java.util.Scanner;
@@ -28,7 +29,7 @@ public class Main {
 
         //plat2
 
-        System.out.println("Entre le nombre : ");
+        /*System.out.println("Entre le nombre : ");
         String number= scanner.nextLine();
 
         System.out.println("Entrer la base : ");
@@ -38,7 +39,15 @@ public class Main {
         }else {
             int decimalValue = Plat2.convertabase10(number, base);
             System.out.println("Le nombre " + number + " en base " + base + " est équivalent à " + decimalValue + " en base décimale.");
-        }
+        }*/
+
+        //plat3
+        System.out.println("Entre le nombre binaire a transformer: ");
+        String number= scanner.nextLine();
+
+
+        String hexadecimal = Plat3.binary(number);
+        System.out.println("Le nombre binaire " + number + " en hexadécimal est " + hexadecimal);
         scanner.close();
 
     }

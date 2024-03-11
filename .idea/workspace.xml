@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8b270f-bf53-44cc-b8e1-9ce1ca23a01d" name="Changes" comment="FirstCommit" />
+    <list default="true" id="2b8b270f-bf53-44cc-b8e1-9ce1ca23a01d" name="Changes" comment="FirstCommit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algo/Methode/Plat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo/Methode/Plat3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +40,27 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MrTsinjo algo/AlgoCorrection&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algo.Main" />
+      <module name="Algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Plat3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algo.Methode.Plat3" />
       <module name="Algo" />
@@ -58,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Plat3" />
       </list>
     </recent_temporary>
@@ -74,6 +93,8 @@
       <workItem from="1709964137141" duration="717000" />
       <workItem from="1710137306845" duration="2009000" />
       <workItem from="1710152312167" duration="304000" />
+      <workItem from="1710164278252" duration="75000" />
+      <workItem from="1710175205513" duration="2021000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1710152611177</created>
