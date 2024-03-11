@@ -26,7 +26,6 @@ public class Plat3 {
 
         while (binary.length() %4 !=0){
             binary ='0' + binary;
-            System.out.println(binary);
         }
 
         StringBuilder stringBuilder= new StringBuilder();
