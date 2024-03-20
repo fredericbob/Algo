@@ -2,6 +2,7 @@ package Algo;
 
 import Algo.Methode.Plat2;
 import Algo.Methode.Plat3;
+import Algo.Methode.Plats1;
 //import Algo.Methode.Plats1;
 
 import java.util.Scanner;
@@ -42,12 +43,15 @@ public class Main {
         }*/
 
         //plat3
-        System.out.println("Entre le nombre binaire a transformer: ");
-        String number= scanner.nextLine();
+        System.out.println("Entre le nombre a :" );
+        double numbera= scanner.nextDouble();
+
+        System.out.println("Entre le nombre b :" );
+        double numberb= scanner.nextDouble();
 
 
-        String hexadecimal = Plat3.binary(number);
-        System.out.println("Le nombre binaire " + number + " en hexadécimal est " + hexadecimal);
+        double multiple = Plat2.somme(numbera,numberb);
+        System.out.println(multiple);
         scanner.close();
 
     }

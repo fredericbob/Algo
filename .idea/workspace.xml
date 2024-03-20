@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b8b270f-bf53-44cc-b8e1-9ce1ca23a01d" name="Changes" comment="FirstCommit">
-      <change afterPath="$PROJECT_DIR$/src/Algo/Methode/Plat4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algo/Methode/Plat3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo/Methode/Plat3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algo/Methode/Plat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algo/Methode/Plat2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,10 @@
       <workItem from="1710137306845" duration="2009000" />
       <workItem from="1710152312167" duration="304000" />
       <workItem from="1710164278252" duration="75000" />
-      <workItem from="1710175205513" duration="3739000" />
+      <workItem from="1710175205513" duration="4166000" />
+      <workItem from="1710221744113" duration="29000" />
+      <workItem from="1710781835525" duration="2424000" />
+      <workItem from="1710920031069" duration="799000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1710152611177</created>
