@@ -16,4 +16,14 @@ public class Plat2 {
         }
         return resultat;
     }
+
+
+    public static  double somme(double a,double b){
+
+        if(b==1) return a;
+
+        double result = a + somme(a,(b-1));
+        return  result ;
+    }
+
 }
